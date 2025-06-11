@@ -34,7 +34,7 @@ Run [nf-core methylseq pipeline](https://nf-co.re/methylseq) to align the sequen
 # setup env
 PROJECT=""
 EMAIL=""
-PROJDIR=/home/$USER/proj/PFOS/em_seq/
+PROJDIR=""
 cd $PROJDIR
 
 # Load modules
@@ -181,4 +181,4 @@ data/
 
 ---
 
->This project was made by the [Karlsson Laboratory Group](https://karlssonlab.se/) at Stockholm University, Sweden.
+>This project was made by the [Karlsson Laboratory](https://karlssonlab.se/research/) at Stockholm University, Sweden.
