@@ -1,3 +1,5 @@
+[![R](https://img.shields.io/badge/-script-276DC3.svg?style=flat&logo=R)](https://cran.r-project.org)
+
 # Project summary
 
 + Dataset is composed of Perflourooctanesulfonic acid (PFOS) exposed (72h) normal human breast cell line (MCF-10A). 12 samples, 6 control, 6 exposed.
